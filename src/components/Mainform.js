@@ -15,8 +15,8 @@ class Mainform extends Component {
 			selectedModule:"",
 		}
 		this.addItem = this.addItem.bind(this); //A function's context (ie. "this") may change when called from different locations. To ensure that we always refer to the Mainform component, we have to bind the function to it   
+		this.deleteItem = this.deleteItem.bind(this);
 		this.handleChange = this.handleChange.bind(this);
-		//this.changeSelectedModule = this.changeSelectedModule.bind(this);
 	}
 
 	addItem(e){ //Handles new items being added to the todo list - we obtain the previous state and concatenate our new item onto it
@@ -34,6 +34,13 @@ class Mainform extends Component {
 			}));
 		}
 		e.preventDefault(); //Prevents the page from refreshing
+	}
+
+	deleteItem(key){
+		var filteredItems = this.state.items.filter((item) => (item.key!==key)); //Here, we're obtaining all items in the list except the object to be deleted
+		this.setState({
+			items:filteredItems
+		})
 	}
 
 	handleChange(e){ //Handles changes to the to-do text field
@@ -105,7 +112,7 @@ class Mainform extends Component {
 
 	          	</form>
 
-				<Todolist entries = {this.state.items} />
+				<Todolist entries = {this.state.items} deleteEntryFunction = {this.deleteItem}/>
 
 	        </div>
 	    );

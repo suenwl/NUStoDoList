@@ -3,7 +3,13 @@
 }
 
 .To-do-list {
-  text-align:center;
+  margin: auto;
+  padding-top: 3%;
+  width:50%;
+}
+
+.To-do-item {
+	background-color: #FFFFFF;
 }
 
 .Mainform {

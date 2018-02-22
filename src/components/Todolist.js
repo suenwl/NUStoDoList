@@ -1,22 +1,26 @@
 import React, { Component } from 'react';
-import SelectableList from "material-ui/List";
-import ListItemText from "material-ui/List/ListItem";
+import List, {ListItem,ListItemText} from "material-ui/List";
 
 class Todolist extends Component {
 
   constructor(props){
     super(props);
-    this.state = {
+    this.createListItems = this.createListItems.bind(this);
+  }
 
-    }
+  deleteEntry(key){
+    this.props.deleteEntryFunction(key);
   }
 
   createListItems(entry){
     return (
-      <ListItemText 
-        key = {entry.key} 
-        children = {entry.text} 
-      />
+      <ListItem key = {entry.key} button onClick = { () => this.deleteEntry(entry.key) } >
+        <ListItemText 
+          key = {entry.key}
+          primary = {entry.text} 
+          secondary = {entry.module}
+        />
+      </ListItem>
     );
   }
 
@@ -25,7 +29,11 @@ class Todolist extends Component {
     var allListItems = toDoEntries.map(this.createListItems);
     console.log(allListItems)
     return (
-        <SelectableList className = "To-do-list" children = {allListItems} />
+        <div className = "To-do-list">
+          <List>
+            {allListItems}
+          </List>
+        </div>
     )
   }
 

@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.To-do-list {
+  text-align:center;
+}
+
+.Mainform {
+  padding: 3%;
+}
+
+.full-width-textfield {
+  width:80%;
+}
+
+.submit-button {
+  width:80%;
+}

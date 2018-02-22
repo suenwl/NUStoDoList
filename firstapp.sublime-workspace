@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"change",
+				"changeSelectedModule"
+			],
+			[
+				"to",
+				"toDoField"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"compo",
+				"componentNames"
+			],
+			[
+				"props",
+				"props\tReact: this.props"
+			],
+			[
+				"pri",
+				"printAnsMatrix"
+			],
+			[
+				"end",
+				"endingPos"
+			],
+			[
+				"junction",
+				"junctionsTaken"
+			],
+			[
+				"jun",
+				"junctionsTaken"
+			],
+			[
+				"c",
+				"currJunctions"
+			],
+			[
+				"second",
+				"second"
+			],
+			[
+				"Di",
+				"Dijkstra"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"dis",
+				"distanceNotOptimal"
+			],
+			[
+				"prin",
+				"printAnsMatrix"
+			],
+			[
+				"distance",
+				"distanceNotOptimal"
+			],
+			[
+				"dist",
+				"distanceIsAtInf"
+			],
+			[
+				"new",
+				"newVertex"
+			],
+			[
+				"starting",
+				"startingPos"
+			],
+			[
+				"in",
+				"IntegerPair"
+			],
+			[
+				"an",
+				"anotherNewLink"
+			],
+			[
+				"print",
+				"printAllIntegerPairs"
+			],
+			[
+				"Array",
+				"ArrayList"
+			],
+			[
+				"Inte",
+				"IntegerPair"
+			],
+			[
+				"edge",
+				"edgesToBeProcessed"
+			],
+			[
+				"In",
+				"IntegerPair"
+			],
+			[
+				"Integer",
+				"IntegerPair"
+			],
+			[
+				"create",
+				"createQuickQueryMatrix"
+			],
+			[
+				"MST",
+				"MSTadjList"
+			],
+			[
+				"pair",
+				"pair"
+			],
+			[
+				"find",
+				"findSet"
+			],
+			[
+				"size",
+				"sizeOfSet"
+			],
+			[
+				"num",
+				"numDisjointSets"
+			],
+			[
+				"is",
+				"isSameSet"
+			],
+			[
+				"u",
+				"unionSet"
+			],
+			[
+				"conne",
+				"connectedVertexes"
+			],
+			[
+				"Int",
+				"IntegerTriple"
+			],
+			[
+				"Prio",
+				"PriorityEdgeList"
+			],
+			[
+				"Adj",
+				"AdjList"
+			],
+			[
+				"curr",
+				"currRoom"
+			],
+			[
+				"visited",
+				"visitedRooms"
+			],
+			[
+				"total",
+				"totalVisitedRooms"
+			],
+			[
+				"critical",
+				"criticalRooms"
+			],
+			[
+				"lowest",
+				"lowestRating"
+			],
+			[
+				"adj",
+				"AdjMatrix"
+			],
+			[
+				"get",
+				"getCount"
+			],
+			[
+				"set",
+				"setName"
+			],
+			[
+				"left",
+				"left"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"after",
+				"afterInc"
+			],
+			[
+				"compar",
+				"comparisonResult"
+			],
+			[
+				"pointer",
+				"pointer1"
+			],
+			[
+				"g",
+				"getCount"
+			],
+			[
+				"ro",
+				"rotateRight"
+			],
+			[
+				"rotate",
+				"rotateLeft"
+			],
+			[
+				"right",
+				"rotateRight"
+			],
+			[
+				"ince",
+				"incSize"
+			],
+			[
+				"nam",
+				"getName"
+			],
+			[
+				"Patient",
+				"Patient"
+			],
+			[
+				"males",
+				"malesSubset"
+			],
+			[
+				"fema",
+				"femalesSubset"
+			],
+			[
+				"shift",
+				"shiftUp"
+			],
+			[
+				"max",
+				"max_id"
+			],
+			[
+				"compare",
+				"compareTo"
+			],
+			[
+				"Shift",
+				"shiftUp"
+			],
+			[
+				"heap",
+				"heapSize"
+			],
+			[
+				"location",
+				"location"
+			],
+			[
+				"inc",
+				"incEmergencyLvl"
+			],
+			[
+				"emergency",
+				"emergencyLvl"
+			],
+			[
+				"patient",
+				"patientName"
+			],
+			[
+				"emr",
+				"emergencyLvl"
+			],
+			[
+				"_",
+				"_emergencyLvl"
+			],
+			[
+				"emer",
+				"emergencyLvl"
+			],
+			[
+				"Exp",
+				"ExpCategories"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"Get",
+				"GetC1"
+			],
+			[
+				"thisCh",
+				"thisChamberNum"
+			],
+			[
+				"cham",
+				"chamberToEnter"
+			],
+			[
+				"Chamber",
+				"ChamberList"
+			],
+			[
+				"NUM",
+				"NUM_OF_APPARATIONS"
+			],
+			[
+				"next",
+				"nextChambers"
+			],
+			[
+				"currC",
+				"currChamberNum"
+			],
+			[
+				"NUM_",
+				"NUM_OF_CHAMBERS"
+			],
+			[
+				"nextChamber",
+				"nextChamber1"
+			],
+			[
+				"net",
+				"nextChamber2"
+			],
+			[
+				"sm",
+				"smallestPower"
+			],
+			[
+				"getS",
+				"getYearsBeforeDecay"
+			],
+			[
+				"boolean",
+				"booleanValue"
+			],
+			[
+				"sec",
+				"secListSize"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"N",
+				"NumOfThreads"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/suenwailun/Desktop/firstapp"
+	],
+	"file_history":
+	[
+		"/Users/suenwailun/Desktop/firstapp/src/App.js",
+		"/Users/suenwailun/Desktop/firstapp/src/components/Todolist.js",
+		"/Users/suenwailun/Desktop/firstapp/src/components/Mainform.js",
+		"/Users/suenwailun/Desktop/firstapp/src/App.css",
+		"/Users/suenwailun/Desktop/firstapp/src/components/Firstcomponent.js",
+		"/Users/suenwailun/Desktop/firstapp/src/index.js",
+		"/Users/suenwailun/Desktop/firstapp/src/components/firstComponent.js",
+		"/Users/suenwailun/Desktop/firstapp/public/index.html",
+		"/Users/suenwailun/Desktop/data.json",
+		"/Users/suenwailun/Sync Documents/University/Y2S2/BT3103 APPLICATION SYSTEMS DEVELOPMENT FOR BUSINESS ANALYTICS/React Tutorial/02-js.html",
+		"/Users/suenwailun/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/suenwailun/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/suenwailun/Sync Documents/University/Y2S2/BT3103 APPLICATION SYSTEMS DEVELOPMENT FOR BUSINESS ANALYTICS/React Tutorial/01-js.html",
+		"/Users/suenwailun/Sync Documents/University/Y2S2/UTW2001R DISCOURSE, CITIZENSHIP, AND SOCIETY/2 - Assignments/38 Oxley Road/Journals:books/A model of trust-repair discourse.html",
+		"/Users/suenwailun/Sync Documents/University/Y2S2/BT3103 APPLICATION SYSTEMS DEVELOPMENT FOR BUSINESS ANALYTICS/Tutorials/Tutorial 1/friendlychat-web-master/web-start/firebase.json",
+		"/Users/suenwailun/Sync Documents/University/Y2S2/BT3103 APPLICATION SYSTEMS DEVELOPMENT FOR BUSINESS ANALYTICS/Tutorials/Tutorial 1/friendlychat-web-master/web-start/scripts/main.js",
+		"/Users/suenwailun/Sync Documents/University/Y2S2/BT3103 APPLICATION SYSTEMS DEVELOPMENT FOR BUSINESS ANALYTICS/Tutorials/Tutorial 1/friendlychat-web-master/web-start/firebase-messaging-sw.js",
+		"/Users/suenwailun/Sync Documents/University/Y2S2/BT3103 APPLICATION SYSTEMS DEVELOPMENT FOR BUSINESS ANALYTICS/Tutorials/Tutorial 1/friendlychat-web-master/web-start/manifest.json",
+		"/Users/suenwailun/Sync Documents/University/Y2S1/BT2101 Decision Making Methods and Tools/Assignments/Assignment HW 5/Submission/A0155381E_TechStocks.ipynb",
+		"/Users/suenwailun/Sync Documents/University/Y2S1/BT2101 Decision Making Methods and Tools/Final project/Group05_Model_WLACK/Nvidia_Model.ipynb",
+		"/Users/suenwailun/Sync Documents/University/Y2S1/BT2101 Decision Making Methods and Tools/Final project/v1.0 fully working model.ipynb",
+		"/Users/suenwailun/Downloads/Nvidia+model.ipynb",
+		"/Users/suenwailun/Sync Documents/University/Y2S1/BT2101 Decision Making Methods and Tools/Final project/Fully working nvidia predictive model v1.0.ipynb",
+		"/Users/suenwailun/Sync Documents/University/Y2S1/BT2101 Decision Making Methods and Tools/Assignments/Assignment HW 6/Jupyter notebooks/BT2101_Group_Project_v4.2.ipynb",
+		"/Users/suenwailun/Desktop/A0155381E_Simplified.ipynb",
+		"/Users/suenwailun/Desktop/Machine+Learning+with+Financial+Data.ipynb",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS3/B/HospitalRenovation.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS4/D/GettingFromHereToThere.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS3/C/HospitalRenovation.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS1/C/EmergencyRoom.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS4/A-C/GettingFromHereToThere.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS3/A/HospitalRenovation.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS2/C/PatientNames.java",
+		"/Users/suenwailun/Downloads/Bleeding.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS5/A/Bleeding.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS5/C/Bleeding (alt).java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS5/C/Bleeding (TLE).java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS5/C/Bleeding.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS5/C/PS5C.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS5/B/Bleeding.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS5/A/PS5.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS4/D/testcaseA.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS4/D/PS4.in",
+		"/Users/suenwailun/Desktop/ps4_testcases/testcaseA.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS4/A/corner.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS4/A/GettingFromHereToThere.java",
+		"/Users/suenwailun/Downloads/UnionFind.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS4/A/PS4.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS3/B/corner.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS3/B/PS3.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS3/A/PS3.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS2/D/TC1.out",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS2/D/PatientNames.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS2/D/PS2D.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS2/C/PS2C.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS2/B/PatientNames.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS2/A/PatientNames.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS2/A/PS2.in",
+		"/Users/suenwailun/Desktop/EmergencyRoom.java",
+		"/Users/suenwailun/Desktop/ER3.in",
+		"/Users/suenwailun/Desktop/test.java",
+		"/Users/suenwailun/test.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS1/B/EmergencyRoom.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS1/B/ER2.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS1/B/EX1B.in",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS1/A/EmergencyRoom.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS1/A/ER1.in",
+		"/Users/suenwailun/Desktop/Addition.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS0/B/Addition.java",
+		"/Users/suenwailun/Desktop/PS0A.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS0 A.java",
+		"/Users/suenwailun/Sync Documents/University/Summer Holidays 2017/Special term/Problem sets/PS0 A",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/functionality/QuickEntry.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/functionality/FullEntry.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/expenses.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/functionality/ExpenseTable.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/package.json",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/functionality/formHooks.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/functionality/start.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/functionality/ExpenseEntry.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/functionality/ExpenseTable.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/.meteor/packages",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/routes.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/main.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/layout/main_layout.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/main.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/styles/overall.css",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/styles/nav.css",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/styles/forms.css",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/layout/navigation.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/main.css",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/Functionality/start.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/Functionality/summary.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/ExpenseEntry.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/ExpenseTable.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/modules/ExpenseEntry.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/ExpenseEntry.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/ExpenseTable.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/server/main.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/lib/ExpenseEntry.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/lib/ExpenseEntry.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/ui/ExpenseTable.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/Templates/ExpenseTable.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/startup/index.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/ui/ExpenseEntry.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/ui/index.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/startup/collections.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/api/expenses.js",
+		"/Users/suenwailun/Desktop/Old files/MoneyGoWhere test2/modules/ExpenseTable/ExpenseTable.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/client/Templates/ExpenseEntry.html",
+		"/Users/suenwailun/Desktop/Old files/MoneyGoWhere test2/modules/ExpenseEntry/ExpenseEntry.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/startup/routes.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/main.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/index.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/ExpenseTable/index.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/ExpenseEntry/index.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/ExpenseTable/templates.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/imports/ExpenseEntry/events.js",
+		"/Users/suenwailun/Desktop/body.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/modules/ExpenseEntry/events.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/modules/ExpenseEntry/templates.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/modules/ExpenseTable/events.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/modules/ExpenseTable/helpers.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/modules/ExpenseTable/templates.html",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/modules/ExpenseEntry/ExpenseEntry.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/modules/ExpenseTable/ExpenseTable.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/startup/setup.js",
+		"/Users/suenwailun/Desktop/MoneyGoWhere/startup/body.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "firstapp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
